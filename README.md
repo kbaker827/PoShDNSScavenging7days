@@ -1,0 +1,2 @@
+# PoShDNSScavenging7days
+It is recommended to set DNS scavenging to clean up old DNS records as well as secure your DNS server infrastructure.  Windows 2012 and Windows 2012 R2 have Powershell commands to interface directly with DNS. To change DNS scavenging run the following commands below:     Please research DNS scavenging prior to running these commands on your DNS servers. DNS scavenging can cause problems when not implemented properly. Set DNS scavenging to 7 days
